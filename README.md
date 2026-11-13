@@ -6,7 +6,7 @@ Use of this sample app is subject to our [Terms of Use](https://www.zoom.com/en/
 
 ## Prerequisites
 
-- Node.js 22.13 or newer
+- Node.js 20.12+
 - A Zoom Video SDK key and secret
 
 ## Installation
